@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231321877911",
+    "project_id": "otaku-a9796",
+    "storage_bucket": "otaku-a9796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231321877911:android:3c338d03bfbc64dc41d8d2",
+        "android_client_info": {
+          "package_name": "com.rawatgautam.otaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231321877911-mdqtge7dhf12cg3e6m9aodr68iu0jukd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rawatgautam.otaku",
+            "certificate_hash": "60f0c92f3628323bd4f6d1ca1d0ddf9b1acc7624"
+          }
+        },
+        {
+          "client_id": "231321877911-iho7191bqpns766uafmrk3ki9v5ck0et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuPF2PuPIo4Bcl3nf3YwPN9ycJd59MPs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231321877911-iho7191bqpns766uafmrk3ki9v5ck0et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
